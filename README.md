@@ -1,6 +1,6 @@
 # Hi, I'm Santiago 👋
 
-Cloud & Automation Engineer with hands-on experience in RPA, digital transformation, and AI-assisted automation. Currently an Operational Efficiency Intern at **Continental**, building end-to-end RPA workflows (UiPath) and AI-powered document processing for Finance and Operations — and outside of work, going deeper into n8n and local-first AI automation, which is what this portfolio is about.
+Cloud & Automation Engineer with hands-on experience in RPA, digital transformation, and AI-assisted automation. I Worked in **Continental** as a Operational Efficiency Intern, building end-to-end RPA workflows (UiPath) and AI-powered document processing for Finance and Operations — and outside of work, going deeper into n8n and local-first AI automation, which is what this portfolio is about.
 
 I care about automations that are actually production-minded: input validation, explicit error handling, and — whenever it makes sense — keeping data local instead of shipping it to a third-party API. Background in Software Development Engineering (Universidad TecMilenio, Mexico) with an exchange semester in Computer Science at Kaunas University of Technology, Lithuania.
 
