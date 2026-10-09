@@ -18,7 +18,7 @@ I care about automations that are actually production-minded: input validation, 
 
 **Automation & AI:** n8n · UiPath (Studio & Orchestrator) · Google ADK · LangChain (via n8n AI Agent) · Ollama · Qdrant · Webhooks & REST APIs · OAuth2
 **Development:** Python (FastAPI) · C# · JavaScript/TypeScript/React · Tauri · SQL
-**DevOps & Cloud:** Docker & Compose · GitHub Actions · Trivy · AWS (EC2, S3, Lambda, Athena) · GCP
+**DevOps & Cloud:** Docker & Compose · GitHub Actions · Trivy · AWS (EC2, S3, Lambda, Athena) · GCP (Cloud Run, Cloud build, FireStore)
 
 ## Certifications
 
